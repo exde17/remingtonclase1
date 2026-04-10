@@ -11,3 +11,4 @@ resultado_multiplicacion = multiplicacion(a, b)
 print("Suma:", resultado_suma)
 print("Resta:", resultado_resta)
 print("Multiplicacion:", resultado_multiplicacion)
+# mario alberto begambre gomez
