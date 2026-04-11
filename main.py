@@ -12,4 +12,10 @@ print("Suma:", resultado_suma)
 print("Resta:", resultado_resta)
 print("Multiplicacion:", resultado_multiplicacion)
 # mario alberto begambre gomez
+<<<<<<< HEAD
 # Yonatan Yepes Campero
+=======
+#Yunior Esteban Suarez Mozo
+#lorena ozuna cavadia
+#elver medina
+>>>>>>> ec0c19cd151ce5260d2612fdfbd316e16436e4d9
