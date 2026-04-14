@@ -18,3 +18,4 @@ print("Multiplicacion:", resultado_multiplicacion)
 # jeison andres montes villamizar
 # maria jose gonzalez sanchez 
 # Anuar Andres Manga Velasquez
+# samuel pastrana fuentes
