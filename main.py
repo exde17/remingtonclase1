@@ -12,3 +12,9 @@ print("Suma:", resultado_suma)
 print("Resta:", resultado_resta)
 print("Multiplicacion:", resultado_multiplicacion)
 # mario alberto begambre gomez
+#Yunior Esteban Suarez Mozo
+#lorena ozuna cavadia
+#elver medina
+# jeison andres montes villamizar
+# maria jose gonzalez sanchez 
+# Anuar Andres Manga Velasquez
