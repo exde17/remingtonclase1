@@ -19,3 +19,4 @@ print("Multiplicacion:", resultado_multiplicacion)
 # maria jose gonzalez sanchez 
 # Anuar Andres Manga Velasquez
 # samuel pastrana fuentes
+# juan sebastian pinedo frias 
