@@ -40,6 +40,6 @@ print("Multiplicacion:", resultado_multiplicacion)
 # Natalia Fabra Meza
 # pepito peres
 # Ramiro Alejandro Cadavid
-#Deimer Andres Hernandes
+# Deimer Andres Hernandes
 #S3m-wed
 #14/04/2026
