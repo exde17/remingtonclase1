@@ -35,9 +35,7 @@ print("Multiplicacion:", resultado_multiplicacion)
 # Anuar Andres Manga Velasquez
 # samuel pastrana fuentes
 # juan sebastian pinedo frias 
-<<<<<<< HEAD
 # daniela ocampo 
-=======
 # Adrian Alvarez Guerra 
 # Natalia Fabra Meza
->>>>>>> 032af525f9e2f23b0eaf7f69ad4059299e1a7dcd
+# pepito peres
