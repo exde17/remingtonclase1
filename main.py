@@ -44,3 +44,5 @@ print("Multiplicacion:", resultado_multiplicacion)
 #S3m-wed
 #14/04/2026
 #jose jose jose
+#pepito perez
+#jose agudelo
